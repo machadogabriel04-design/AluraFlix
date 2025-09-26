@@ -1,0 +1,11 @@
+body{
+    color: black;
+    background-color: rgb(214, 33, 27);
+    margin: 0px;
+}
+header {
+    border-bottom: solid 2px blueviolet;
+    padding: 20px;
+    fort-size: 32px;
+    color: blueviolet;
+}
